@@ -19,11 +19,11 @@ __Dale un vistazo a mis repositorias de GitHub:__
 
 <div>
   <p>
-    <a href="">
-      <img src=""/>
+    <a href="https://github.com/Isabelita211/System-I-S">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabelita211&repo=System-I-S" alt="GitHub Stats"/>
     </a>
-    <a href="">
-      <img src=""/>
+    <a href="https://github.com/Isabelita211/Mimi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabelita211&repo=Mimi" alt="GitHub Stats"/>
     </a>
   </p>
 </div>
