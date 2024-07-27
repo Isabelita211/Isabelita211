@@ -15,7 +15,7 @@ Soy una Ingeniera en Informática recién graduada, tengo conocimientos en Pytho
 - Fuera de la computadora, 📖 Me gusta leer, 🎮 jugar videojuegos y 🎵 Escuchar musica.
 - 📫 Más información: <a href="">Proximamente</a>
 
-__Dale un vistazo a mis repositorias de GitHub:__
+__Dale un vistazo a mis repositorios de GitHub:__
 
 <div>
   <p>
