@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre Mi***
 
-Soy una Ingeniera en Informática recién graduada, tengo conocimientos en Python con su libreria PyQt5 y QtDesigner, MySQL, C++, HTML y CSS. Con muchas ganas de aprender
+Soy una Ingeniera en Informática recién graduada con muchas ganas de aprender y ganar mucha experiencia para seguir mejorando.
 * **Estoy interesada en seguridad informática y en desarrollar**
 - 🌱 Actualmente estoy aprendiendo...
   - Inteligencia Artificial
@@ -27,6 +27,9 @@ __Dale un vistazo a mis repositorios de GitHub:__
     </a>
   </p>
 </div>
+
+# 💻 Conocimientos:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-%2387FFD3.svg?style=for-the-badge&logo=python&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-%230099FF.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%236600FF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <h2>👀 My github Stats</h2>
 
