@@ -2,11 +2,11 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Isabelita211.repoName) [![GitHub followers](https://img.shields.io/github/followers/Isabelita211.svg?style=social&label=Follow)](https://github.com/Isabelita211?tab=followers)<br/>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre Mi***
 
-Soy una Ingeniera en Informática recién graduada, tengo conocimientos en Python, MySQL, C++, HTML y CSS. Con muchas ganas de aprender
+Soy una Ingeniera en Informática recién graduada, tengo conocimientos en Python con su libreria PyQt5 y QtDesigner, MySQL, C++, HTML y CSS. Con muchas ganas de aprender
 * **Estoy interesada en seguridad informática y en desarrollar**
 - 🌱 Actualmente estoy aprendiendo...
   - Inteligencia Artificial
