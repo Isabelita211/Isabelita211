@@ -20,7 +20,7 @@ __Dale un vistazo a mis repositorios de GitHub:__
 <div>
   <p>
     <a href="https://github.com/Isabelita211/System-IandS">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabelita211&repo=System-I-S" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabelita211&repo=System-IandS" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/Isabelita211/Mimi">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabelita211&repo=Mimi" alt="GitHub Stats"/>
