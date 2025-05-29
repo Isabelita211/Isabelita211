@@ -11,6 +11,7 @@ Soy una Ingeniera en Informática recién graduada con muchas ganas de aprender 
 - 🌱 Actualmente estoy aprendiendo...
   - Inteligencia Artificial
   - Diseño de Interfaces
+  - Ciberseguridad
 - 👯 Tengo muchas ganas de colaborar en proyectos de código abierto.
 - Fuera de la computadora, 📖 Me gusta leer, 🎮 jugar videojuegos y 🎵 Escuchar musica.
 - 📫 Más información: <a href="">Proximamente</a>
