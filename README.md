@@ -27,14 +27,14 @@ __Dale un vistazo a mis repositorios de GitHub:__
 </div>
 
 # 💻 Conocimientos:
-![PYTHON](https://img.shields.io/badge/python-%2387FFD3.svg?style=for-the-badge&logo=python&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-%230099FF.svg?style=for-the-badge&logo=mysql&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6)
+![PYTHON](https://img.shields.io/badge/python-%2387FFD3.svg?style=for-the-badge&logo=python&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-%230099FF.svg?style=for-the-badge&logo=mysql&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h2>👀 My github Stats</h2>
 
 <div>
   
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Isabelita211&locale=es&timezone=-4&exclude_days=Sun" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Isabelita211&locale=es" alt="GitHub Streak" /></a>
   
 </div>
 
