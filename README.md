@@ -27,14 +27,14 @@ __Dale un vistazo a mis repositorios de GitHub:__
 </div>
 
 # 💻 Conocimientos:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JAVASCRIPT]([https://img.shields.io/badge/python-%2387FFD3.svg?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/javascript-%f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=white)) ![PYTHON](https://img.shields.io/badge/python-%2387FFD3.svg?style=for-the-badge&logo=python&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-%230099FF.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%236600FF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PYTHON](https://img.shields.io/badge/python-%2387FFD3.svg?style=for-the-badge&logo=python&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-%230099FF.svg?style=for-the-badge&logo=mysql&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6)
 
 <h2>👀 My github Stats</h2>
 
 <div>
   
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isabelita211" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Isabelita211&locale=es&timezone=-4&exclude_days=Sun" alt="GitHub Streak" />
   
 </div>
 
