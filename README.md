@@ -27,7 +27,7 @@ __Dale un vistazo a mis repositorios de GitHub:__
 </div>
 
 # 💻 Conocimientos:
-![PYTHON](https://img.shields.io/badge/python-%2387FFD3.svg?style=for-the-badge&logo=python&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-%230099FF.svg?style=for-the-badge&logo=mysql&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PYTHON](https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=white) ![MYSQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h2>👀 My github Stats</h2>
 
